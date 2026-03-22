@@ -9,19 +9,16 @@ I am a product manager who loves living in the messy intersection of engineering
 *How do we stop bleeding revenue at the final step of the customer journey?*
 
 * **The Problem Space:** D2C eCommerce businesses lose billions due to poor checkout experiences and lengthy forms. Furthermore, a single Return to Origin (RTO) for a Cash-on-Delivery order results in a direct loss of ₹390 for the merchant, severely hurting their unit economics. Behind the scenes, merchants also struggle with chaotic, multi-tab payment gateway setups.
-* **My Touchpoints:** I work on architecting high-availability 1-Click Checkouts (Breeze) to eliminate purchase friction. To combat logistics losses, I orchestrate AI-powered VoIP bots (Breeze Buddy) utilizing LLMs to proactively call customers and verify addresses and purchase intent before shipping.
 
 ### 2. Pine Labs | Bridging the Physical-Digital Hardware Gap
 *How do we make deploying thousands of fintech hardware devices seamless for both the merchant and the salesperson?*
 
 * **The Problem Space:** Merchants need quick, audible verification of digital payments in noisy environments. However, scaling physical hardware is tough—previous iterations failed because complicated installation flows and pre-mapped devices caused immense confusion for field sales reps on the ground.
-* **My Touchpoints:** I focused on untangling the deployment UX for internal teams, decoupling hardware mapping to simplify the installation flow. My work revolved around crafting Go-To-Market (GTM) launch plans, writing clear SOPs, and balancing the competing priorities of aggressive sales teams with robust engineering standards.
 
 ### 3. TCS Digitate | Untangling Enterprise IT & Data
 *How do we make massive, legacy enterprise systems healthier and easier to modernize?*
 
 * **The Problem Space:** Fortune 500 enterprises lack clear, centralized visibility into the health of their sprawling computer systems. Furthermore, migrating their sensitive data from legacy architectures to modern tech stacks is a high-risk operation fraught with potential downtime and data breaches.
-* **My Touchpoints:** I acted as the bridge between client needs and developer execution, building suites of 60+ APIs to gather actionable insights from scattered enterprise endpoints. I also helped design automated, executable solutions to safely migrate data and upgrade technology stacks with minimal disruption.
 
 ---
 
@@ -77,7 +74,6 @@ I am a product manager who loves living in the messy intersection of engineering
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S4m0502&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
 ## 📫 Let's Connect
