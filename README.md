@@ -1,6 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Fintech infrastructure and checkout optimization at Juspay<br>- AI-driven merchant tools that reduce operational costs (voice automation, analytics copilots)<br>- Building autonomous systems like "AutoApply AI" to automate career workflows and product experiments<br><br>👯 I’m looking to collaborate on<br>- AI-powered developer tools<br>- Fintech / payments infrastructure projects<br>- Product analytics and experimentation platforms<br>- Open-source tools that combine product thinking with engineering<br><br>🤝 I’m looking for help with<br>- Scaling AI systems and LLM-based applications<br>- Open-source best practices<br>- Advanced system design for high-scale fintech products<br>- Building a strong developer + product portfolio on GitHub<br><br>🌱 I’m currently learning<br>- LLM architectures and AI product design<br>- System design for large-scale fintech systems<br>- Data analytics and experimentation frameworks<br>- Building autonomous AI agents<br><br>💬 Ask me about<br>- Product management in fintech<br>- 0→1 product building<br>- Checkout systems and payments infrastructure<br>- AI in product development<br>- Bridging engineering and product thinking
+# Hi, I'm Sourya 👋
+[cite_start] I am a product manager who loves living in the messy intersection of engineering complexity and business strategy. My quirk? I am a hybrid PM. I don't just market and scale products; I dive deep into the technical problem space to understand exactly *how* to build them.[cite: 730]. 
+[cite_start]With strong foundations in computer science & business, I excel in creating products customers love, aligning multiple stakeholders to a vision, and delivering products to the market, rapidly[cite: 731, 734, 737].
 
+---
+
+## 🧩 The Problem Spaces I Explore
+
+### 1. Juspay | Solving E-commerce + Fintech Friction
+*How do we stop bleeding revenue at the final step of the customer journey?*
+
+* [cite_start]**The Problem Space:** D2C eCommerce businesses lose billions due to poor checkout experiences and lengthy forms[cite: 255, 284]. [cite_start]Furthermore, a single Return to Origin (RTO) for a Cash-on-Delivery order results in a direct loss of ₹390 for the merchant, severely hurting their unit economics[cite: 624, 625]. [cite_start]Behind the scenes, merchants also struggle with chaotic, multi-tab payment gateway setups[cite: 661, 662].
+* [cite_start]**My Touchpoints:** I work on architecting high-availability 1-Click Checkouts (Breeze) to eliminate purchase friction[cite: 206]. [cite_start]To combat logistics losses, I orchestrate AI-powered VoIP bots (Breeze Buddy) utilizing LLMs to proactively call customers and verify addresses and purchase intent before shipping[cite: 586, 625]. 
+
+### 2. Pine Labs | Bridging the Physical-Digital Hardware Gap
+*How do we make deploying thousands of fintech hardware devices seamless for both the merchant and the salesperson?*
+
+* [cite_start]**The Problem Space:** Merchants need quick, audible verification of digital payments in noisy environments[cite: 148]. [cite_start]However, scaling physical hardware is tough—previous iterations failed because complicated installation flows and pre-mapped devices caused immense confusion for field sales reps on the ground[cite: 138, 139, 140]. 
+* [cite_start]**My Touchpoints:** I focused on untangling the deployment UX for internal teams, decoupling hardware mapping to simplify the installation flow[cite: 139, 141]. [cite_start]My work revolved around crafting Go-To-Market (GTM) launch plans [cite: 134][cite_start], writing clear SOPs, and balancing the competing priorities of aggressive sales teams with robust engineering standards[cite: 141, 146, 147].
+
+### 3. TCS Digitate | Untangling Enterprise IT & Data
+*How do we make massive, legacy enterprise systems healthier and easier to modernize?*
+
+* [cite_start]**The Problem Space:** Fortune 500 enterprises lack clear, centralized visibility into the health of their sprawling computer systems[cite: 179]. [cite_start]Furthermore, migrating their sensitive data from legacy architectures to modern tech stacks is a high-risk operation fraught with potential downtime and data breaches[cite: 180, 193, 202]. 
+* [cite_start]**My Touchpoints:** I acted as the bridge between client needs and developer execution, building suites of 60+ APIs to gather actionable insights from scattered enterprise endpoints[cite: 189, 190]. [cite_start]I also helped design automated, executable solutions to safely migrate data and upgrade technology stacks with minimal disruption[cite: 191, 193].
+
+---
+
+## ⚙️ Core Stack & Philosophy
+* **Focus:** 0-to-1 Development, Agile/Scrum, GTM Strategy, User Experience Design.
+* **Tech Context:** AWS/GCP Architecture, API Design, Generative AI / LLMs, System Migrations.
+* [cite_start]**Mantra:** Identify the most important customer problems, let the data guide the way, and leave the codebase (and the team) better than I found it[cite: 143].
+
+---
 # 💻 Tech Stack:
 
 ## 🧑‍💻 Languages
