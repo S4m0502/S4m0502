@@ -78,5 +78,5 @@ I am a product manager who loves living in the messy intersection of engineering
 
 ## 📫 Let's Connect
 Looking for a PM who can translate complex architecture into market-winning features? Let's talk.
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/sourya-basu/
 * ✉️ **Email:** sourya0102@gmail.com
